@@ -1,0 +1,24 @@
+# Core dependencies
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+statsmodels
+scikit-learn
+pyautogen
+pyyaml
+python-dotenv
+
+# UI
+streamlit
+
+# Azure OpenAI
+openai
+
+# Excel support
+openpyxl
+xlrd
+
+# Utilities
+tqdm

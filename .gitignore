@@ -1,0 +1,14 @@
+# Ignore data and config/output files
+*.json
+*.csv
+*.png
+*.yaml
+*.yml
+
+# Optional: Ignore any cache folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.cache/
+venv/
